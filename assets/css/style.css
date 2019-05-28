@@ -7,6 +7,9 @@ body{
 .jumbo{
     background-color: transparent;
 }
+.jumbo p{
+    font-size:20px;
+}
 #button-crystal{
     padding:50px 0px 25px 0px;
 }
