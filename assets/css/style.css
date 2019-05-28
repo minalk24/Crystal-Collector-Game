@@ -1,0 +1,18 @@
+body{
+    background-image: url("../images/crstalBg4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: cursive;
+}
+.jumbo{
+    background-color: transparent;
+}
+#button-crystal{
+    padding:50px 0px 25px 0px;
+}
+.icons{
+    width:auto;
+    height:auto;
+    max-width:100px;
+    max-height:100px;
+}
