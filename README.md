@@ -27,7 +27,7 @@
 
 
  ## Images 
-![# Crystal-Collector-Game](assets/images/crystalGame.png)
+![# Crystal-Collector-Game](assets/readme-images/crystalGame.png)
 
 ## Author
 Minal Kharche
