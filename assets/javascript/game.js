@@ -98,7 +98,7 @@ $(document).ready(function () {
 		$("#totalNumber").html(totalScore);
 	});
 
-	//button click
+	//after button click following instructions will run
 	$("button").on("click", function () {
 
 		if (totalScore == randomNumberPick) {
